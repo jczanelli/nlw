@@ -1,4 +1,4 @@
-#NLW eSports
+# NLW eSports
 
 ![preview](./.github/preview.png)
 
@@ -8,7 +8,7 @@ Project built on Next Level Week by Rocketseat.
 
 [Click here to access](https://jczanelli.github.io/nlw-esports-explorer)
 
-##Technologies
+## Technologies
 
 - HTML
 - CSS
